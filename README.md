@@ -1,3 +1,5 @@
+**Project summary**
+
 This project focused on the prediction of Coronary Heart Disease (CHD) risk based on a dataset containing demographic, behavioral, and medical history features of patients. The dataset included information on gender, age, smoking status, blood pressure medication, previous stroke history, hypertension, diabetes prevalence, and various medical measurements.
 
 The initial exploratory data analysis revealed interesting insights, such as a slightly higher number of females in the dataset and more non-smokers than smokers. Age was found to be a significant risk factor for CHD, and certain medical measurements like cholesterol levels, blood pressure, BMI, heart rate, and glucose levels showed distinct patterns.
